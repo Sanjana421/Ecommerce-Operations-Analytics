@@ -203,6 +203,14 @@ All transformed tables written to a local DuckDB analytical database (`supply_ch
 
 ---
 
+## Business Recommendations
+
+- Monitor delivery delays as order volume scales → potential carrier bottleneck
+- Invest in São Paulo logistics infrastructure → 40% revenue concentration
+- Prioritize health & beauty inventory → highest demand category
+
+---
+
 ## Future Improvements
 
 - Add Apache Airflow scheduling for automated daily pipeline runs
