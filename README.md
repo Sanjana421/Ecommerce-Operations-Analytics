@@ -4,6 +4,19 @@ An end-to-end data analytics pipeline built on the **Olist Brazilian E-Commerce 
 
 ---
 
+## 🚀 Business Problem
+E-commerce platforms generate large volumes of transactional and operational data, but fragmented datasets make it difficult to track performance across orders, deliveries, and sellers.
+
+## 🎯 Objective
+Build an end-to-end analytics pipeline to transform raw multi-source data into actionable insights for monitoring revenue, delivery performance, and operational efficiency.
+
+## 💡 Key Impact
+- Enabled KPI tracking across finance, supply chain, and operations domains
+- Identified delivery delays during scaling periods and regional revenue concentration
+- Provided data-driven insights to support business and operational decision-making
+
+---
+
 ## Architecture
 
 ```
